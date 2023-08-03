@@ -10,6 +10,11 @@
 * Press space to shoot
 * Try surviving as long as possible
 
+# Demonstration
+
+https://github.com/abdulrahim2002/Space-Shooter-Game-Web-Version/assets/89011337/4a49e504-edb4-47d8-bedf-daf3d0048535
+
+
 # Game Play
 
 ### 1
