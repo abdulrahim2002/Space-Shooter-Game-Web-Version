@@ -1,7 +1,5 @@
 # Space-Shooter-Game-Web-Version
 
-## click: https://abdul-rahim.tech/Space-Shooter-Game-Web-Version/
-
 #### A space shooter type game where you find your way forward while dodging and fighting enemy space ships and interselestial rocks
 
 ## How to play:
